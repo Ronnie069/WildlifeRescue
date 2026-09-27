@@ -19,6 +19,12 @@ The system can:
 ## Rescue types
 All cases share common details such as case ID, animal name, species, location, ranger, number of days, daily care cost and status.
 
+There are 3 specialised types:
+
+1. injured animal rescue
+2. orphanned animal rescue
+3. indangered spieces rescue
+   
 ## How code is structured
 OOP used: inheritance, abstraction, interfaces, encapsulation, method overriding and polymorphism.
 
