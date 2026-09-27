@@ -27,5 +27,3 @@ There are 3 specialised types:
    
 ## How code is structured
 OOP used: inheritance, abstraction, interfaces, encapsulation, method overriding and polymorphism.
-
-## Menu
