@@ -19,6 +19,7 @@ The system can:
 ## Rescue types
 All cases share common details such as case ID, animal name, species, location, ranger, number of days, daily care cost and status.
 
+## Hoe code is structured
 OOP used: inheritance, abstraction, interfaces, encapsulation, method overriding and polymorphism.
 
 ## Menu
